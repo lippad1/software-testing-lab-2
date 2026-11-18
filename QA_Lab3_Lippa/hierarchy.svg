@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="280" viewBox="0 0 520 280">
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 1 L8 5 L0 9 Z" fill="#33536b"/></marker></defs>
+  <g stroke="#33536b" fill="#f1f7fc" stroke-width="2">
+    <rect x="145" y="12" width="230" height="42" rx="7"/>
+    <rect x="145" y="82" width="230" height="42" rx="7"/>
+    <rect x="145" y="152" width="230" height="42" rx="7"/>
+    <rect x="145" y="222" width="230" height="42" rx="7"/>
+    <path d="M260 81V58 M260 151V128 M260 221V198" marker-end="url(#arrow)" fill="none"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="19" fill="#183451" text-anchor="middle">
+    <text x="260" y="40">LoyaltyPolicy</text>
+    <text x="260" y="110">StandardPolicy</text>
+    <text x="260" y="180">CampaignPolicy</text>
+    <text x="260" y="250">HolidayPolicy</text>
+  </g>
+</svg>

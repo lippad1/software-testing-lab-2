@@ -1,0 +1,8 @@
+{
+  "source": { "include": ["loyalty.mjs"], "includePattern": ".+\\.mjs$" },
+  "opts": { "destination": "docs", "readme": "README.md" },
+  "templates": {
+    "default": { "staticFiles": { "include": ["receipt.svg", "hierarchy.svg"] } }
+  }
+}
+

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="144" viewBox="0 0 520 144">
+  <rect x="2" y="2" width="516" height="140" rx="16" fill="#edf5ff" stroke="#3377ae" stroke-width="2"/>
+  <g font-family="Arial, sans-serif" fill="#183451">
+    <text x="25" y="38" font-size="20" font-weight="bold">Пример покупки</text>
+    <text x="25" y="75" font-size="17">Оплачено 260 ₽</text>
+    <text x="25" y="108" font-size="17">2 полные сотни рублей × 5 баллов</text>
+    <text x="391" y="92" font-size="25" font-weight="bold">10 баллов</text>
+  </g>
+</svg>

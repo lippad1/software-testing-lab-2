@@ -1,0 +1,6 @@
+{
+  "name": "qa-lab3-lippa",
+  "private": true,
+  "scripts": { "docs": "jsdoc -c jsdoc.json" },
+  "devDependencies": { "jsdoc": "4.0.5" }
+}
